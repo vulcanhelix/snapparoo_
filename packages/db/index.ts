@@ -1,10 +1,17 @@
-import { createKysely } from "@vercel/postgres-kysely";
+// Mock implementation for database operations
 
-import type { DB } from "./prisma/types";
+export const db = {
+  async query(_query: string, _values: any[] = []) {
+    console.log('Mock query executed:', _query);
+    return [];
+  },
+};
 
-export { jsonArrayFrom, jsonObjectFrom } from "kysely/helpers/postgres";
+// Mock enums
+export enum SubscriptionPlan {
+  FREE = 'FREE',
+  PRO = 'PRO',
+  ENTERPRISE = 'ENTERPRISE',
+}
 
-export * from "./prisma/types";
-export * from "./prisma/enums";
-
-export const db = createKysely<DB>();
+// This setup will bypass all database operations
