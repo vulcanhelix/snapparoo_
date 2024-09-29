@@ -5,8 +5,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { useSelectedLayoutSegment } from "next/navigation";
 
-import { cn } from "@saasfly/ui";
-import * as Icons from "@saasfly/ui/icons";
+import { cn } from "@snapparoo/ui";
+import * as Icons from "@snapparoo/ui/icons";
 
 import { MobileNav } from "~/components/mobile-nav";
 import type { MainNavItem } from "~/types";

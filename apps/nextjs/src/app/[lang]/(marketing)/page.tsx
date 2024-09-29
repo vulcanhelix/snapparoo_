@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-import * as Icons from "@saasfly/ui/icons";
+import * as Icons from "@snapparoo/ui/icons";
 
 import { XBlogArticle } from "~/components/blog-card";
 import { Comments } from "~/components/comments";

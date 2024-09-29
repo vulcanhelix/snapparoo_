@@ -1,6 +1,6 @@
 // @ts-check
 import "./src/env.mjs";
-import "@saasfly/auth/env.mjs";
+import "@snapparoo/auth/env.mjs";
 
 import withMDX from "@next/mdx";
 
@@ -11,12 +11,12 @@ const config = {
   reactStrictMode: true,
   /** Enables hot reloading for local packages without a build step */
   transpilePackages: [
-    "@saasfly/api",
-    "@saasfly/auth",
-    "@saasfly/db",
-    "@saasfly/common",
-    "@saasfly/ui",
-    "@saasfly/stripe",
+    "@snapparoo/api",
+    "@snapparoo/auth",
+    "@snapparoo/db",
+    "@snapparoo/common",
+    "@snapparoo/ui",
+    "@snapparoo/stripe",
   ],
   pageExtensions: ["ts", "tsx", "mdx"],
   experimental: {
