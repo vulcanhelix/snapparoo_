@@ -1,5 +1,5 @@
 import React from 'react';
-import * as Icons from "@saasfly/ui/icons";
+import * as Icons from "snapparoo//ui/icons";
 
 const activities = [
   { icon: 'Deploy', title: 'Easy Deploy', description: 'Deploy your app with ease', time: '2m ago' },

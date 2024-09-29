@@ -2,8 +2,8 @@
 
 import { Drawer } from "vaul";
 
-import { cn } from "@saasfly/ui";
-import { Dialog, DialogContent, DialogTitle } from "@saasfly/ui/dialog";
+import { cn } from "snapparoo//ui";
+import { Dialog, DialogContent, DialogTitle } from "snapparoo//ui/dialog";
 
 import useMediaQuery from "~/hooks/use-media-query";
 

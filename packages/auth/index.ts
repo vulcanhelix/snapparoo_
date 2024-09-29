@@ -6,7 +6,7 @@ import type {
 import { getServerSession, type NextAuthOptions, type User } from "next-auth";
 import GitHubProvider from "next-auth/providers/github";
 
-import { siteConfig } from "@saasfly/common";
+import { siteConfig } from "snapparoo//common";
 
 import { env } from "./env.mjs";
 

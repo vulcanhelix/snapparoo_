@@ -1,1 +1,1 @@
-module.exports = require("@saasfly/tailwind-config/postcss");
+module.exports = require("snapparoo//tailwind-config/postcss");

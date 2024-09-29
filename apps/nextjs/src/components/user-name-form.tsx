@@ -7,8 +7,8 @@ import type { User } from "next-auth";
 import { useForm } from "react-hook-form";
 import type * as z from "zod";
 
-import { cn } from "@saasfly/ui";
-import { buttonVariants } from "@saasfly/ui/button";
+import { cn } from "snapparoo//ui";
+import { buttonVariants } from "snapparoo//ui/button";
 import {
   Card,
   CardContent,
@@ -16,11 +16,11 @@ import {
   CardFooter,
   CardHeader,
   CardTitle,
-} from "@saasfly/ui/card";
-import * as Icons from "@saasfly/ui/icons";
-import { Input } from "@saasfly/ui/input";
-import { Label } from "@saasfly/ui/label";
-import { toast } from "@saasfly/ui/use-toast";
+} from "snapparoo//ui/card";
+import * as Icons from "snapparoo//ui/icons";
+import { Input } from "snapparoo//ui/input";
+import { Label } from "snapparoo//ui/label";
+import { toast } from "snapparoo//ui/use-toast";
 
 import { userNameSchema } from "~/lib/validations/user";
 import { trpc } from "~/trpc/client";

@@ -1,6 +1,6 @@
 import { Suspense } from "react";
 
-import { getCurrentUser } from "@saasfly/auth";
+import { getCurrentUser } from "snapparoo//auth";
 
 import { NavBar } from "~/components/navbar";
 import { SiteFooter } from "~/components/site-footer";

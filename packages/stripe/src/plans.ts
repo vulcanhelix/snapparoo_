@@ -1,4 +1,4 @@
-import { SubscriptionPlan } from "@saasfly/db";
+import { SubscriptionPlan } from "snapparoo//db";
 
 import { env } from "./env.mjs";
 

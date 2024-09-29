@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 
-import { getCurrentUser } from "@saasfly/auth";
+import { getCurrentUser } from "snapparoo//auth";
 
 import { LocaleChange } from "~/components/locale-change";
 import { MainNav } from "~/components/main-nav";
