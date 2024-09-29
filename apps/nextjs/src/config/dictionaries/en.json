@@ -1,0 +1,89 @@
+{
+  "price": {
+    "title": "Revolutionary product photography!",
+    "pricing": "Pricing",
+    "slogan": "Accelerate your e-commerce success!",
+    "monthly_bill": "Monthly Billing",
+    "annual_bill": "Annual Billing",
+    "annual_info": "billed annually for greater savings",
+    "monthly_info": "flexible monthly billing option",
+    "mo": "/mo",
+    "contact": "to discuss custom solutions for your needs.",
+    "contact_2": "Experience the Snapparoo difference risk-free.",
+    "faq": "Frequently Asked Questions",
+    "faq_detail": "Find answers to common questions about our service. If you need more information, our team is ready to provide personalized assistance.",
+    "signup": "Sign up",
+    "upgrade": "Upgrade",
+    "manage_subscription": "Manage Subscription",
+    "go_to_dashboard": "Go to dashboard",
+    "": ""
+  },
+  "marketing": {
+    "introducing": "Introducing Snapparoo",
+    "title": "Snapparoo: Revolutionize Your E-commerce Photography",
+    "sub_title": "Same-day professional product photos, straight from the source.",
+    "get_started": "Get Started",
+    "view_on_github": "Learn More",
+    "explore_product": "Explore Our Process",
+    "features": "Features",
+    "sub_features": "Same country photography: Eliminating delays and reducing costs for e-commerce.",
+    "k8s_features": "Same-day photo delivery",
+    "devops_features": "Seamless integration with your workflow",
+    "price_features": "Cost-effective solution for businesses of all sizes.",
+    "main_nav_features": "Features",
+    "main_nav_pricing": "Pricing",
+    "main_nav_products": "Services",
+    "main_nav_blog": "Success Stories",
+    "main_nav_documentation": "How It Works",
+    "login": "Login",
+    "signup": "Sign up",
+    "": ""
+  },
+  "login": {
+    "back": "Back",
+    "welcome_back": "Welcome back",
+    "signin_title": "Enter your email to access your Snapparoo account",
+    "singup_title": "New to Snapparoo? Sign up for faster product launches.",
+    "signin_email": "Log in with Email",
+    "signin_others": "Or continue with",
+    "signup": "Sign up",
+    "privacy": "We respect your privacy. Only essential info is stored.",
+    "": ""
+  },
+  "common": {
+    "copyright": "Copyright © ${currentYear} Snapparoo Inc. All rights reserved.",
+    "dashboard": {
+      "main_nav_documentation": "How It Works",
+      "main_nav_support": "Support",
+      "sidebar_nav_clusters": "Projects",
+      "sidebar_nav_billing": "Billing",
+      "sidebar_nav_settings": "Settings",
+      "title_text": "Manage your product photography projects."
+    },
+    "": ""
+  },
+  "business": {
+    "k8s": {
+      "new_cluster": "New Project",
+      "no_cluster_title": "No active projects",
+      "no_cluster_content": "You haven't started any projects yet. Begin your first photo shoot.",
+      "": ""
+    },
+    "billing": {
+      "billing": "Billing",
+      "content": "Manage your Snapparoo subscription and billing details",
+      "noSubscription": "You're not subscribed to any plan. Start accelerating your launches!",
+      "subscriptionInfo": "You're on the <strong>{plan}</strong> plan. Next renewal: <strong>{date}</strong>.",
+      "manage_subscription": "Manage Subscription",
+      "upgrade": "Upgrade",
+      "": ""
+    }
+  },
+  "dropdown": {
+    "dashboard": "Dashboard",
+    "billing": "Billing",
+    "settings": "Settings",
+    "sign_out": "Sign out",
+    "": ""
+  }
+}

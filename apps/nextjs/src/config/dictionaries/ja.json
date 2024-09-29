@@ -1,0 +1,90 @@
+{
+  "price": {
+    "title": "革新的な製品写真サービス！",
+    "pricing": "料金プラン",
+    "slogan": "Eコマースの成功を加速！",
+    "monthly_bill": "月額請求",
+    "annual_bill": "年間請求",
+    "annual_info": "年間契約でさらにお得に",
+    "monthly_info": "柔軟な月額支払いオプション",
+    "mo": "/月",
+    "contact": "カスタムソリューションについてご相談ください。",
+    "contact_2": "Snapparooの違いをリスクなく体験してください。",
+    "faq": "よくある質問",
+    "faq_detail": "サービスに関する一般的な質問の回答をご覧ください。さらに詳しい情報が必要な場合は、個別のサポートを提供いたします。",
+    "signup": "サインアップ",
+    "upgrade": "アップグレード",
+    "manage_subscription": "サブスクリプション管理",
+    "go_to_dashboard": "ダッシュボードへ",
+    "": ""
+  },
+  "marketing": {
+    "introducing": "Snapparooのご紹介",
+    "title": "Snapparoo：Eコマース写真を革新する",
+    "sub_title": "製造元から直接、同日のプロ品質製品写真を提供",
+    "get_started": "始める",
+    "view_on_github": "詳細を見る",
+    "explore_product": "プロセスを探る",
+    "features": "特徴",
+    "sub_features": "現地撮影：Eコマースの遅延を排除しコストを削減",
+    "k8s_features": "同日の写真納品",
+    "devops_features": "ワークフローとのシームレスな統合",
+    "price_features": "あらゆる規模のビジネスに適したコスト効率の良いソリューション。",
+    "main_nav_features": "特徴",
+    "main_nav_pricing": "料金",
+    "main_nav_products": "サービス",
+    "main_nav_blog": "成功事例",
+    "main_nav_documentation": "仕組み",
+    "login": "ログイン",
+    "signup": "サインアップ",
+    "": ""
+  },
+  "login": {
+    "back": "戻る",
+    "welcome_back": "おかえりなさい",
+    "signin_title": "Snapparooアカウントにアクセスするメールを入力してください",
+    "singup_title": "Snapparooは初めてですか？より速い製品ローンチのためにサインアップ。",
+    "signin_email": "メールでログイン",
+    "signin_others": "または続ける",
+    "signup": "サインアップ",
+    "privacy": "プライバシーを尊重します。必要な情報のみ保存します。",
+    "signup_github": "Githubでサインアップ",
+    "": ""
+  },
+  "common": {
+    "copyright": "著作権 © ${currentYear} Snapparoo株式会社。全ての権利を保有。",
+    "dashboard": {
+      "main_nav_documentation": "仕組み",
+      "main_nav_support": "サポート",
+      "sidebar_nav_clusters": "プロジェクト",
+      "sidebar_nav_billing": "請求",
+      "sidebar_nav_settings": "設定",
+      "title_text": "製品写真プロジェクトの管理。",
+      "": ""
+    },
+    "": ""
+  },
+  "business": {
+    "k8s": {
+      "new_cluster": "新規プロジェクト",
+      "no_cluster_title": "アクティブなプロジェクトはありません",
+      "no_cluster_content": "まだプロジェクトを開始していません。最初の撮影を始めましょう。"
+    },
+    "billing": {
+      "billing": "請求",
+      "content": "Snapparooのサブスクリプションと請求詳細を管理",
+      "noSubscription": "プランに登録されていません。製品ローンチを加速させましょう！",
+      "subscriptionInfo": "<strong>{plan}</strong> プランをご利用中です。次回更新日: <strong>{date}</strong>。",
+      "manage_subscription": "サブスクリプション管理",
+      "upgrade": "アップグレード"
+    },
+    "": ""
+  },
+  "dropdown": {
+    "dashboard": "ダッシュボード",
+    "billing": "請求",
+    "settings": "設定",
+    "sign_out": "サインアウト",
+    "": ""
+  }
+}
